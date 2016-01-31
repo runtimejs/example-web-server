@@ -10,6 +10,12 @@ cd example-web-server
 npm install
 ```
 
+Install the command line tool:
+
+```
+npm install runtime-cli -g
+```
+
 ### Run
 
 Make sure you have QEMU installed, then
